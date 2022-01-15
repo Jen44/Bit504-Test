@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		// Testing a change for GitHub
+		// Test2
 		Scanner scanner = new Scanner(System.in);
 		int age, height;
 		System.out.println("Enter your age: ");
