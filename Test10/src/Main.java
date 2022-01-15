@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// Test2
+
 		Scanner scanner = new Scanner(System.in);
 		int age, height;
 		System.out.println("Enter your age: ");
